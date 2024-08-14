@@ -1,0 +1,9 @@
+path: C:/Users/Noel/Desktop/KI Unterricht/SkiDataset
+train: images
+val: images
+test:
+
+nc: 1
+
+names: 
+  0: skier
