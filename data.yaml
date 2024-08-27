@@ -1,4 +1,4 @@
-path: C:/Users/Noel/Desktop/KI Unterricht/SkiDataset
+path: ./SkiDataset
 train: images
 val: images
 test:
