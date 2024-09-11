@@ -1,7 +1,7 @@
 path: ./SkiDataset
-train: images
-val: images
-test:
+train: /train
+test: /test
+val:
 
 nc: 1
 
