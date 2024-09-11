@@ -1,9 +1,7 @@
 path: ./SkiDataset
-train: /train
-test: /test
+train: ./train
+test: ./test
 val:
-
-nc: 1
 
 names: 
   0: skier
